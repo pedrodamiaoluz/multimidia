@@ -1,0 +1,5 @@
+Fiz nesse repositorio a atividade 3 e 4.
+
+git clone https://github.com/pedrodamiaoluz/multimidia.git
+
+Bom Autoridade, Nesse repositório contem já nele a atividade 3 e 4 eu aproveitei um repositório único para fazer as atividade ai ta dividido por pastas a pata da atividade3 corresponde a tarefa  Atividade 03 - video.
